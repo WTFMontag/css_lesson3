@@ -1,0 +1,70 @@
+#container{width: 770px;
+  text-align: justify;
+  background-color: #fff;
+  margin: auto;}
+
+body {background-color: #cccccc;
+  font-size: 11px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+p::first-letter{color:blue;
+   font-weight: bold;
+   font-size: 38px;
+   font-family: Times New Roman;}
+
+#content{width: 570px;
+height: 240px;
+float: left;
+background-color: #fff;}
+
+#nav{width: 200px;
+height: 240px;
+float: left;
+background-color: #e7e7e7;}
+
+#header{height:60px; 
+background-color:#b0b0b0;}
+
+ul{
+  margin: 0;
+  padding:0;
+  list-style: none;
+}
+a{
+  display: block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;
+  color: #000000;
+  text-decoration: none;
+  font-size: 12px;
+  background:url(images/rol.gif) no-repeat left bottom;
+  text-indent: 40px;
+}
+a:hover{background-position: right bottom;
+color: white;
+font-weight: bold;}
+
+ h1 {
+   margin-left: 30px;
+   padding-top: 25px;
+ }
+
+ h3{
+   padding-left: 11px;
+ }
+
+ p{
+   padding-right: 10px;
+   padding-left: 11px; 
+ }
+
+ a
+ {text-decoration: none;}
+
+ li{
+   margin:0;
+   
+   list-style-type: none;
+   font-size: 12px;
+ }
