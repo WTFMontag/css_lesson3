@@ -10,7 +10,7 @@ body {background-color: #cccccc;
 p::first-letter{color:blue;
    font-weight: bold;
    font-size: 38px;
-   font-family: Times New Roman;}
+   font-family: "Times New Roman";}
 
 #content{width: 570px;
 height: 240px;
